@@ -1,4 +1,6 @@
-*.pdsbak
-*.workspace
 .pioenvs
 .piolibdeps
+.clang_complete
+.gcc-flags.json
+*.pdsbak
+*.workspace
