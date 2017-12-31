@@ -1,0 +1,36 @@
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\cores\tiny
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\variants\tinyX5
+-IC:\Users\PeCe Triqadafi\Documents\Arduino\simple_etching\src
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\__cores__\tiny\EEPROM
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\__cores__\tiny\SoftwareSerial
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\Adafruit_CircuitPlayground
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\Adafruit_CircuitPlayground\utility
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\Bridge\src
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\Esplora\src
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\Ethernet\src
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\Firmata
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\Firmata\utility
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\GSM\src
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\Keyboard\src
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\LiquidCrystal\src
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\Mouse\src
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\RobotIRremote\src
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\Robot_Control\src
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\Robot_Motor\src
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\SD\src
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\Servo\src
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\SpacebrewYun\src
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\Stepper\src
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\TFT\src
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\Temboo\src
+-IC:\Users\PeCe Triqadafi\.platformio\packages\framework-arduinoavr\libraries\WiFi\src
+-IC:\Users\PeCe Triqadafi\.platformio\packages\toolchain-atmelavr\avr\include
+-IC:\Users\PeCe Triqadafi\.platformio\packages\toolchain-atmelavr\lib\gcc\avr\4.9.2\include
+-IC:\Users\PeCe Triqadafi\.platformio\packages\toolchain-atmelavr\lib\gcc\avr\4.9.2\include-fixed
+-IC:\Users\PeCe Triqadafi\.platformio\packages\tool-unity
+-DF_CPU=8000000L
+-DPLATFORMIO=30500
+-DARDUINO_ARCH_AVR
+-DARDUINO_AVR_ATTINYX5
+-DARDUINO=10619
+-D__AVR_ATtiny85__
